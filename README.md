@@ -1,6 +1,6 @@
 # Assignments
 
-Brief videos explaining the assignments (usual password): coming soon...
+Brief videos explaining the assignments (usual password): [https://cloud.haw-hamburg.de/index.php/s/hLlURQuxS2sGor6](https://cloud.haw-hamburg.de/index.php/s/hLlURQuxS2sGor6)
 
 ## Rules for the assignments
  * Stick to the coding style, see Readme of chapter 3.
