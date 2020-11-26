@@ -1,0 +1,9 @@
+Grading for assignment 1: 15
+
+Requirements: ok
+  reflection off left and right cushions could be more robust
+
+Coding Style: hmm
+  * global variable racketBlue: -0.5
+  * the massive use of IIFEs makes the code harder to read and more complicated than
+    necessary.
