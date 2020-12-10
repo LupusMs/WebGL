@@ -1,0 +1,6 @@
+Grading for assignment 2: 14
+
+Requirements: ok
+
+Coding Style: -1
+  * Missing Semicolons (5x)
