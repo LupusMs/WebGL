@@ -1,0 +1,10 @@
+Grading for assignment 4: 13
+
+Math exercise: ok
+  * calculation wrong: -1
+
+Requirements:
+  * clicking not reliable, because you work in camera space where the ball has a different
+    radius value: -1
+
+Coding Style: ok
